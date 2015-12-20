@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "8D1A0A0302A0BE7753FF7F8BD853327F53C03C6A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "8D1A0A0302A0BE7753FF7F8BD853327F53C03C6A" : 0,
+    "9A4B91CB88CCDCFDA78CEDA4E215CBB5F6AB8A02" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "69516332-39B3-4325-BEF6-E2A3C4B4004A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "8D1A0A0302A0BE7753FF7F8BD853327F53C03C6A" : "ISBN_MasterDetail\/",
+    "9A4B91CB88CCDCFDA78CEDA4E215CBB5F6AB8A02" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ISBN_MasterDetail",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ISBN_MasterDetail.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/dpconde\/IOSCloud_Semana3",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8D1A0A0302A0BE7753FF7F8BD853327F53C03C6A"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/dpconde\/Cloud-iOS_Tarea1.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9A4B91CB88CCDCFDA78CEDA4E215CBB5F6AB8A02"
+    }
+  ]
+}
